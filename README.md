@@ -16,7 +16,7 @@ Backend-focused software engineer with 2+ years at Citi and Spenza — shipping 
 
 ## Projects
 - 🎫 [Jira Ticket Enhancer](https://github.com/Sid-0307/Jira-Ticket-Enhancer) — LLM-powered ticket quality gate · [Live](https://jira-ticket-enhancer-rz7e.vercel.app)
-- 🎟️ [Ticket Booking System](https://github.com/Sid-0307/ticketing-platform-monorepo) — High-concurrency booking with dynamic pricing
+- 🎟️ [EventHub](https://github.com/Sid-0307/EventHub) — High-concurrency booking with dynamic pricing
 - 📱 [XpenseEz](https://github.com/Sid-0307/UPI-expense-tracker) — Offline UPI expense tracker · [Play Store](https://play.google.com/store/apps/details?id=com.sid.xpenseez)
 
 ---
