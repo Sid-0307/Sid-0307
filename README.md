@@ -1,16 +1,18 @@
-## Hi there 👋
+# Siddharth S
 
-<!--
-**Sid-0307/Sid-0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused software engineer with 2+ years at Citi and Spenza.
 
-Here are some ideas to get you started:
+## Tech Stack
+**Languages:** Java · TypeScript · Python · SQL  
+**Frameworks:** Spring Boot · NestJS · Node.js · FastAPI · Angular · React  
+**Databases:** PostgreSQL · Oracle SQL · MongoDB · Redis  
+**Infra:** Docker · Kubernetes · Helm · Harness · AWS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🎫 [Jira Ticket Enhancer](https://github.com/Sid-0307/Jira-Ticket-Enhancer) — LLM-powered ticket quality gate · [Live](https://jira-ticket-enhancer-rz7e.vercel.app)
+- 🎟️ [Ticket Booking System](https://github.com/Sid-0307/ticketing-platform-monorepo) — High-concurrency booking with dynamic pricing
+- 📱 [XpenseEz](https://github.com/Sid-0307/UPI-expense-tracker) — Offline UPI expense tracker · [Play Store](https://play.google.com/store/apps/details?id=com.sid.xpenseez)
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-03-s)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://siddharth-portfolio-five.vercel.app/)
